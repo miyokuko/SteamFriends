@@ -31,7 +31,6 @@
 | ![](https://avatars.steamstatic.com/af6c9695bd763d98700d8a91555d500f04615df4.jpg) | Aura                    | [76561198794990367](https://steamcommunity.com/profiles/76561198794990367/) | ❌           | 2025-12-22 13:15:02 | 2026-01-21 18:15:38 |          |
 | ![](https://avatars.steamstatic.com/34a4ca9cdc374708e4eecc3680e8af3a3477ad26.jpg) | 砂糖鹿                     | [76561198973109254](https://steamcommunity.com/profiles/76561198973109254/) | ❌           | 2025-05-23 14:28:54 | 2026-01-21 18:15:38 |          |
 | ![](https://avatars.steamstatic.com/733ff202d8f8fccfeef289c3b0079af75a46c29b.jpg) | 亚人女王                    | [76561198311467679](https://steamcommunity.com/profiles/76561198311467679/) | ❌           | 2025-10-19 03:55:29 | 2026-01-21 18:15:38 |          |
-
 | ![](https://avatars.steamstatic.com/3c413ba321f4a262190f34b3a99e9d9f933a1e69.jpg) | 勘冴えて悔しいわ                | [76561198323751640](https://steamcommunity.com/profiles/76561198323751640/) | ✅           | 2025-05-20 04:34:27 |                     |          |
 | ![](https://avatars.steamstatic.com/4757615382649494ff323477a3509bc0b6da066c.jpg) | 维罗妮卡 ⋆⁺                 | [76561198357529760](https://steamcommunity.com/profiles/76561198357529760/) | ✅           | 2025-07-17 15:19:37 |                     |          |
 | ![](https://avatars.steamstatic.com/f9cb93098b543c5d158a428e35f304ace393d532.jpg) | Etemenanki              | [76561199030922637](https://steamcommunity.com/profiles/76561199030922637/) | ✅           | 2025-05-24 03:12:44 |                     |          |
