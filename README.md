@@ -17,6 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name                    | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
+我删的：
 | ![](https://avatars.steamstatic.com/a42780ef7156eb63cd75656f9fafbf285cb92969.jpg) | PapaFluff               | [76561198797491462](https://steamcommunity.com/profiles/76561198797491462/) | ❌           | 2026-01-18 09:22:33 | 2026-01-21 18:15:38 |          |
 | ![](https://avatars.steamstatic.com/308ecdfba34f7e23f968b50bead65f667cfa8e5d.jpg) | 芒椰小丸子                   | [76561198237603508](https://steamcommunity.com/profiles/76561198237603508/) | ❌           | 2025-09-21 07:45:02 | 2026-01-21 18:15:38 |          |
 | ![](https://avatars.steamstatic.com/ec0a075551d7284d650ddccfef61c3db7e33c691.jpg) | 福泥曲奇                    | [76561199372630147](https://steamcommunity.com/profiles/76561199372630147/) | ❌           | 2025-10-18 14:34:19 | 2026-01-21 18:15:38 |          |
@@ -30,8 +31,7 @@
 | ![](https://avatars.steamstatic.com/af6c9695bd763d98700d8a91555d500f04615df4.jpg) | Aura                    | [76561198794990367](https://steamcommunity.com/profiles/76561198794990367/) | ❌           | 2025-12-22 13:15:02 | 2026-01-21 18:15:38 |          |
 | ![](https://avatars.steamstatic.com/34a4ca9cdc374708e4eecc3680e8af3a3477ad26.jpg) | 砂糖鹿                     | [76561198973109254](https://steamcommunity.com/profiles/76561198973109254/) | ❌           | 2025-05-23 14:28:54 | 2026-01-21 18:15:38 |          |
 | ![](https://avatars.steamstatic.com/733ff202d8f8fccfeef289c3b0079af75a46c29b.jpg) | 亚人女王                    | [76561198311467679](https://steamcommunity.com/profiles/76561198311467679/) | ❌           | 2025-10-19 03:55:29 | 2026-01-21 18:15:38 |          |
-| ![](https://avatars.steamstatic.com/7c5436403cd6f9c67a47d4b5a7e049b6d9116ea9.jpg) | verby                   | [76561198307082153](https://steamcommunity.com/profiles/76561198307082153/) | ❌           | 2025-11-28 05:18:17 | 2026-01-20 17:59:48 |          |
-| ![](https://avatars.steamstatic.com/da07faa727219668a78eefb80d3b2d2c51fa5e3a.jpg) | WingeD_ClouD            | [76561198063056386](https://steamcommunity.com/profiles/76561198063056386/) | ❌           | 2026-01-07 00:53:10 | 2026-01-12 20:42:12 |          |
+
 | ![](https://avatars.steamstatic.com/3c413ba321f4a262190f34b3a99e9d9f933a1e69.jpg) | 勘冴えて悔しいわ                | [76561198323751640](https://steamcommunity.com/profiles/76561198323751640/) | ✅           | 2025-05-20 04:34:27 |                     |          |
 | ![](https://avatars.steamstatic.com/4757615382649494ff323477a3509bc0b6da066c.jpg) | 维罗妮卡 ⋆⁺                 | [76561198357529760](https://steamcommunity.com/profiles/76561198357529760/) | ✅           | 2025-07-17 15:19:37 |                     |          |
 | ![](https://avatars.steamstatic.com/f9cb93098b543c5d158a428e35f304ace393d532.jpg) | Etemenanki              | [76561199030922637](https://steamcommunity.com/profiles/76561199030922637/) | ✅           | 2025-05-24 03:12:44 |                     |          |
